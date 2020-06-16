@@ -1,0 +1,55 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image: url('rough trade.jpg');
+    background-size: cover;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+}
+
+h1
+{
+    text-align: center;
+}
+
+.jumbotron
+{
+    margin-top: 30px;
+    background: transparent;
+    height: 200px;
+    text-align: center;
+    color: purple;
+}
+
+.paris
+{
+    background-image: url('tsla.jpg');
+}
+
+.pp
+{
+    background-color: pink;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.yes
+{
+    background-color: pink;
+    width: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tsla
+{
+    background-color: green;
+    width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
